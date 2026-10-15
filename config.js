@@ -15,8 +15,8 @@ global.owner = [
 ];
 
 global.namebot = 'gaff ai';
-global.author = 'Noureddine ouafy';
-global.source = 'https://chat.whatsapp.com/Hp3R0WWD5G8Li9HKBU6fn3';
+global.author = 'chasper exx';
+global.source = '';
 
 global.wait = 'Loading... | جاري الانتظار';
 global.eror = 'There is an error... | وقع خطأ';
